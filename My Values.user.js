@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name My Values
 // @namespace aoshushier
-// @version 1.6.4
+// @version 1.6.5
 // @include *.google.*tbm=isch*
 // @include *.google.*tbm=vid*
 // @include *.google.*tbs=sbi*
