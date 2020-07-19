@@ -38,7 +38,7 @@ function init(settings) {
         title: `Is this an energy or time leech?`,
         html: `<div>I'll be glad to not PMO today.</div>
 <div style="font-size: 0.6em">[Disable message for ${settings.delay_minutes} minute(s)]</div>`,
-        confirmButtonText: 'Confirmed',
+        confirmButtonText: 'Nope!',
         backdrop: `rgb(0,0,0,1)`,
         allowOutsideClick: false,
         allowEscapeKey: false,
