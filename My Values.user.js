@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name My Values
 // @namespace aoshushier
-// @version 1.6.6
+// @version 1.6.7
 // @include *.google.*tbm=isch*
 // @include *.google.*tbm=vid*
 // @include *.google.*tbs=sbi*
@@ -36,10 +36,10 @@ function init(settings) {
         // width: 720,
         width: 1280,
         // title: 'I will NOT search for girls TODAY.',
-        title: `Is this an energy or time leech?`,
-        html: `<div>I'll be glad to not PMO today.</div>
+        title: `Am I being indistractable?`,
+        html: `<div></div>
 <div style="font-size: 0.6em">[Disable message for ${settings.delay_minutes} minute(s)]</div>`,
-        confirmButtonText: 'Nope!',
+        confirmButtonText: 'This internet usage aligns with my values.',
         backdrop: `rgb(0,0,0,1)`,
         allowOutsideClick: false,
         allowEscapeKey: false,
