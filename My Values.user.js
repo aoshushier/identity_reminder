@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name My Values
 // @namespace aoshushier
-// @version 1.6.5
+// @version 1.6.6
 // @include *.google.*tbm=isch*
 // @include *.google.*tbm=vid*
 // @include *.google.*tbs=sbi*
 // @include *.google.*imgurl*
+// @include *.youtube.com*
 // @include *.reddit.*
 // @include https://fitgirl-repacks.site/
 // @grant none
@@ -14,13 +15,13 @@
 // @description Google Image reminder with confirm delay and show delay after confirmation.
 // ==/UserScript==
 
-// @include *.youtube.com*
 
 // 
 // fitgirls // add to movies
 
 init({
-    youtube: false,
+    youtube: true,
+    reddit: true,
     delay_minutes: 2,
     show_button_delay_ms: 1500
 })
