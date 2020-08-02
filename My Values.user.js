@@ -33,7 +33,7 @@ function init(settings) {
     
     let text
     if (location.host == "reddit.com" || location.host == "youtube.com")
-        text = `Why can't I cope with people disagreeing with me? Why do I have the compulsion to argue in a mean way? I fear people who disagree with me and judge me and look down on me for not sharing their beliefs, so I try to put them down. Regardless of my beliefs, I am no better than them. I cannot control what they believe. There are many people who let people disagree with them without getting upset. I have a lot of hate and bitterness stored deep within me. What do I need to do to release it? Why is my method of coping to feel "good" to try and be right, or look at porn? Why do I blame my coping mechanisms on my childhood without learning how to do things correctly on my own?`
+        text = `MY EXPERIMENT IS OVER. NO MORE INITIATING DEBATES. Why can't I cope with people disagreeing with me? Why do I have the compulsion to argue in a mean way? I fear people who disagree with me and judge me and look down on me for not sharing their beliefs, so I try to put them down. Regardless of my beliefs, I am no better than them. I cannot control what they believe. There are many people who let people disagree with them without getting upset. I have a lot of hate and bitterness stored deep within me. What do I need to do to release it? Why is my method of coping to feel "good" to try and be right, or look at porn? Why do I blame my coping mechanisms on my childhood without learning how to do things correctly on my own?`
         else
         text = ``
 
